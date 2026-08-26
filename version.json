@@ -1,6 +1,6 @@
 {
   "versionCode": 200,
   "versionName": "2.0",
-  "forceUpdate": true
+  "forceUpdate": true,
   "apkUrl": "https://github.com/lxadrn/myapp-updates/releases/download/v1.1/app-release.apk"
 }
